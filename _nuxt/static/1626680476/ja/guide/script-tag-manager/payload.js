@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ja/guide/script-tag-manager", {data:[{},{}],fetch:{},mutations:[]});
