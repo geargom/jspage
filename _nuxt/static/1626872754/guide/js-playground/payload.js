@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/guide/js-playground", {data:[{},{}],fetch:{},mutations:[]});
